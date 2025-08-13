@@ -1,3 +1,7 @@
+This is a copy of the repository originally published in the 
+Non-Equilibrium Mechanics Laboratory repository: 
+celiareina/EmergenceViscosity.
+
 This repository provides Python code for the kinetic Monte Carlo (KMC)
 algorithms and maximum likelihood estimator (MLE) described in the 
 manuscript "Emergence of viscosity and dissipation via stochastic bonds"
@@ -6,7 +10,7 @@ of Solids for publication. These files are intended to provide simple
 working examples for other researcher interested in recreating and
 expanding the results found in the manuscript. Comments have been 
 provided here, but further explanations can be found in appendices
-A and F of the manuscript itself. 
+A and F of the manuscript itself.
 
 
 The files include in this repository are:
@@ -37,9 +41,6 @@ manuscript)
 
 
 Manuscript: 
-Emergence of viscosity and dissipation via stochastic bonds (submitted to JMPS)
+Leadbetter, Travis, et al. "Emergence of viscosity and dissipation via stochastic bonds." Journal of the Mechanics and Physics of Solids 158 (2022): 104660.
 
-Authors: 
-Travis Leadbetter, Ali Seiphoori, Celia Reina, Prashant K. Purohit
-
-Last edited July 27, 2021
+Last edited August 13, 2025
