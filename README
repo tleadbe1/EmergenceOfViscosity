@@ -1,0 +1,45 @@
+This repository provides Python code for the kinetic Monte Carlo (KMC)
+algorithms and maximum likelihood estimator (MLE) described in the 
+manuscript "Emergence of viscosity and dissipation via stochastic bonds"
+which has been submitted to the Journal of the Mechanics and Physics
+of Solids for publication. These files are intended to provide simple
+working examples for other researcher interested in recreating and
+expanding the results found in the manuscript. Comments have been 
+provided here, but further explanations can be found in appendices
+A and F of the manuscript itself. 
+
+
+The files include in this repository are:
+
+kmc.py 
+--------------
+This file provides code to preform force independent and force
+dependent KMC simulation of the bonding and unbonding of a single bond
+in the stochastic bond model.
+
+--------------
+--------------
+
+kmcSolidBridge.py
+--------------
+This file provides the code for running a KMC simulation of the solid
+bridge pull-off experiments described in Section 4.2 of the manuscript.
+
+--------------
+--------------
+
+mle.py
+--------------
+This file provides the code for computing the MLE for the kinetic parameters
+(the bonding and unbonding rate and the critical force) from experimental data
+of the solid bridge pull-off experiment (see Section 4.2 and Appendix F of the 
+manuscript)
+
+
+Manuscript: 
+Emergence of viscosity and dissipation via stochastic bonds (submitted to JMPS)
+
+Authors: 
+Travis Leadbetter, Ali Seiphoori, Celia Reina, Prashant K. Purohit
+
+Last edited July 27, 2021
